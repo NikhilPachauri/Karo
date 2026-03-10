@@ -1,2 +1,2 @@
 # Karo
-Karo Pitch is a venue for entrepreneurs throughout India to present their startups and secure funding.
+A Karo pitch takes place when business owners present their idea to investors, seeking financial support, guidance, and collaborations for growth. It was created to offer entrepreneurs a space to showcase ideas, attract investors, and turn innovative concepts into successful businesses. The aim is to assist entrepreneurs across Bharat by providing financing, mentorship, exposure, and opportunities to grow startups and create impact. Numerous entrepreneurs are creating incredible companies but do not have access to investors. We link these entrepreneurs with investors via selected pitch events.
